@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --orange: #ee6c4d;
+    --orange-light: #f09278;
+    --dark: #293241;
+    --light: #f5e3df;
+}
+
+body{
+    background-color: #f7f7f7;
+    width: 100%;
+    max-width: 1800px;
+    margin: auto;
+}
+
+.btns{
+    background-color: var(--orange);
+    border-radius: 50px;
+    padding: 7px 20px;
+    transition: .2s ease-in;
+    font-size: 12px;
+}
+
+.btns:hover{
+    background-color: var(--orange-light);
+}
+
+.hum{
+    border: none;
+}
+
+.bad{
+    background-color: var(--orange);
+    border-radius: 50px;
+    padding: 6px 17px;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    justify-content: sp;
+}
+
+
+.bg-item{
+    background-color: var(--light);
+}
+
+.btnz{
+    color: var(--orange);
+    background-color: var(--light);
+    border-radius: 50px;
+    padding: 7px 20px;
+    transition: .2s ease-in;
+    font-size: 12px;
+}
+
+.bg-orange{
+    background-color: var(--orange);
+    margin-top: 59   iiiiiiiiiiiii88877777779999999999999v vvvvvvvvrem;
+}
+
+.btn-foot{
+    color: var(--light);
+    background-color: var(--orange);
+    border-radius: 50px;
+    padding: 7px 20px;
+    transition: .2s ease-in;
+    font-size: 12px;
+    transition: .2s;
+}
+
+.btn-foot:hover{
+    background-color: var(--light);
+}
